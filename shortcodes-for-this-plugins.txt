@@ -1,0 +1,10 @@
+To display Company Login 
+[comp_company_login]
+
+To display Company Registration
+[comp_create_company]
+
+To display Company Listings
+[comp_company_listing]
+
+
